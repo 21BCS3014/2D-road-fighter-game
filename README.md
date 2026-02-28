@@ -132,6 +132,7 @@ g++ road_fighter.cpp -lGL -lGLU -lglut -o roadfighter
 5. Push to GitHub
 
 ---
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/37cd3839-0e60-45ea-aad2-e3dc2ac1d5cb" />
 
 ## 🔮 Future Enhancements
 
