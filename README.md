@@ -122,6 +122,7 @@ g++ road_fighter.cpp -lGL -lGLU -lglut -o roadfighter
 <img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/37cd3839-0e60-45ea-aad2-e3dc2ac1d5cb" />
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/cc445e1b-04b1-478f-b017-6cafeb990be7" />
 <img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/64ee3e9a-82a9-4c49-aaac-5eb375e920f3" />
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/9c561923-78b2-46d6-8fe6-bc02c6e164db" />
 
 
 
@@ -129,8 +130,6 @@ g++ road_fighter.cpp -lGL -lGLU -lglut -o roadfighter
 
 * 🔊 Sound effects and background music
 * 🏎️ Multiple difficulty levels
-* 🎨 Improved graphics and textures
-* 🧠 Smarter traffic AI
 * 📱 Mobile/Android version
 
 ---
