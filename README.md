@@ -110,7 +110,7 @@ g++ road_fighter.cpp -lGL -lGLU -lglut -o roadfighter
 | ----- | ------------------- |
 | ↑ | Accelerate / Car races  |
 | ← / → | Move car left/right |
-| ESC   | Exit game           |
+
 
 
 ---
